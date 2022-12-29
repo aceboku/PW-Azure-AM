@@ -1,0 +1,9 @@
+{
+	"name": "PW-DataFactory-AM",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "82afc224-1732-4867-90ca-50a8715686ae",
+		"tenantId": "35930464-9007-4f07-8772-3223cfd8d136"
+	}
+}
